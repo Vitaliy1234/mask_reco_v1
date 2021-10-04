@@ -6,3 +6,5 @@
   1. YOLOv3 (реализация на pytorch)
   2. MTCNN (библиотека facenet-pytorch)
   3. ResNet-101 (встроен в pytorch)
+
+Используются готовые модели YOLOv3 и MTCNN. ResNet-101 дообучались. Код дообучения представлен в файле empl_cl_classifier/training.py
